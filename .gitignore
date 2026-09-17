@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.venv312/
+.python-deps/
+artifacts/
+demo-artifacts/
+HAM10000/
+dataset/
+images/
+models/
+*.zip
+*.keras
+.DS_Store
